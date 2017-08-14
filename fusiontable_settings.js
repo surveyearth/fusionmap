@@ -34,7 +34,7 @@ var MapsLib = MapsLib || {}; MapsLib.schemaVersion = 2;
 
     // *New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
     // *Important* this key is for demonstration purposes. please register your own.
-    MapsLib.googleApiKey ="AIzaSyA-CfjwTG9xR0zcM_LTrdq5uS-Y8sDUKnM";
+    MapsLib.googleApiKey ="AIzaSyCcfyB5HxBskloHAZ4_RYVYhdSdLHRJE3w";
     
 
     // DONE!  YOU COULD DELETE EVERYTHING AFTER THIS POINT AND STILL HAVE A WORKING APP.
