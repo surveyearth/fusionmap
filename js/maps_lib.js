@@ -9,7 +9,7 @@
         this.searchRadius = options.searchRadius || 805; //in meters ~ 1/2 mile
 
         // the encrypted Table ID of your Fusion Table (found under File => About)
-        this.fusionTableId = options.fusionTableId || "",
+        this.fusionTableId = options.fusionTableId || "1ATJoo09l_PiQOtwHvHWudp9W5JBF5s2ZwKsCYs5B",
 
         // Found at https://console.developers.google.com/
         // Important! this key is for demonstration purposes. please register your own.
@@ -37,7 +37,7 @@
                 this.addrMarkerImage = ""
         }
         else
-            this.addrMarkerImage = "images/blue-pushpin.png"
+            this.addrMarkerImage = "images/fistholdsm.png"
 
     	this.currentPinpoint = null;
     	$("#result_count").html("");
